@@ -32,11 +32,11 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Bootstrap" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
+<img align="left" alt="Bootstrap" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 
 <br/>
 <br/>
 
 ### Socials :
 
-<a href="https://www.linkedin.com/in/amir-hossein-banaei-939155212?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4RIxLPz8Qr%2B0SsamKv9grg%3D%3D"><img align="left" alt="Gmail" width="28px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png"></a>
+<a href="https://www.linkedin.com/in/amir-hossein-banaei-939155212?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4RIxLPz8Qr%2B0SsamKv9grg%3D%3D"><img align="left" alt="Gmail" width="26px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png"></a>
