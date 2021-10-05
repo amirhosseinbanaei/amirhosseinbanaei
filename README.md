@@ -35,7 +35,6 @@
 <img align="left" alt="Bootstrap" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 
 <br/>
-<br/>
 
 ### Socials :
 
