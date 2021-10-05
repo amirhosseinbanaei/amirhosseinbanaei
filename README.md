@@ -19,7 +19,7 @@
 <br /> -->
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=erfanbanaei&show_icons=true&theme=radical)](https://github.com/amirhosseinbanaei)
+[![github stats](https://github-readme-stats.vercel.app/api?username=amirhosseinbanaei&show_icons=true&theme=radical)](https://github.com/amirhosseinbanaei)
 
 
 ### Languages and Tools:
