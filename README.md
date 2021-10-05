@@ -39,4 +39,4 @@
 
 ### Socials :
 
-<a href="https://github.com/amirhosseinbanaei"><img align="left" alt="Gmail" width="28px" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png"></a>
+<a href="https://github.com/amirhosseinbanaei"><img align="left" alt="Gmail" width="28px" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png"></a>
