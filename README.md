@@ -1,4 +1,4 @@
-### Hello Guys👋<br/><br/>Welcome to my Github page 😊<br/><br/>
+### Hello Guys 👋<br/><br/>Welcome to my Github page 😊<br/><br/>
 
 
 
@@ -25,7 +25,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=amirhosseinbanaei&show_icons=true&theme=synthwave)](https://github.com/amirhosseinbanaei)
 
 
-### Languages and Tools:
+### Languages and Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -33,4 +33,9 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Bootstrap" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
+
+<br/>
+<br/>
+
+### Socials :
 
