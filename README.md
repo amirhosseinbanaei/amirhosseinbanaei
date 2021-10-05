@@ -39,4 +39,4 @@
 
 ### Socials :
 
-<a href="https://github.com/amirhosseinbanaei"><img align="left" alt="Gmail" width="28px" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png"></a>
+<a href="https://github.com/amirhosseinbanaei"><img align="left" alt="Gmail" width="28px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png"></a>
