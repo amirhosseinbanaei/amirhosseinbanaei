@@ -39,3 +39,4 @@
 
 ### Socials :
 
+<img align="left" alt="Gmail" width="28px" src="https://spng.pinpng.com/pngs/s/43-438268_gmail-icon-hd-png-download.png">
