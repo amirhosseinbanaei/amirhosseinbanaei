@@ -25,10 +25,7 @@
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=amirhosseinbanaei&show_icons=true&theme=synthwave)](https://github.com/amirhosseinbanaei)
- 
- 
- 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
- 
+  
 </div>
 
 ### Languages and Tools :
