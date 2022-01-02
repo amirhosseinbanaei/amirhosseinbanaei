@@ -26,13 +26,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=amirhosseinbanaei&show_icons=true&theme=synthwave)](https://github.com/amirhosseinbanaei)
  
- <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=formidablae&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=formidablae&include_all_commits=true&hide_border=true&theme=dark"/>
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
-	<img width="450em"/>
-</p>
-  
+ 
 </div>
 
 ### Languages and Tools :
