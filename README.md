@@ -26,6 +26,8 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=amirhosseinbanaei&show_icons=true&theme=synthwave)](https://github.com/amirhosseinbanaei)
  
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=erfanbanaei&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27"></p>
  
 </div>
 
