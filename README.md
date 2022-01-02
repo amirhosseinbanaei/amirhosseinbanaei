@@ -27,7 +27,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=amirhosseinbanaei&show_icons=true&theme=synthwave)](https://github.com/amirhosseinbanaei)
  
  <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinbanaei&langs_count=8&layout=compact&theme=synthwave&include_all_commits=true&line_height=27"></p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinbanaei&langs_count=8&layout=compact&theme=synthwave&include_all_commits=true&line_height=27_width:36"></p>
  
 </div>
 
