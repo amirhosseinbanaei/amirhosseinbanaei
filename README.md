@@ -22,13 +22,12 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br /> -->
-
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=amirhosseinbanaei&show_icons=true&theme=synthwave)](https://github.com/amirhosseinbanaei)
- 
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinbanaei&langs_count=8&layout=compact&theme=synthwave&include_all_commits=true&line_height=30"></p>
  
+[![github stats](https://github-readme-stats.vercel.app/api?username=amirhosseinbanaei&show_icons=true&theme=synthwave)](https://github.com/amirhosseinbanaei)
+ 
+
 </div>
 
 ### Languages and Tools :
