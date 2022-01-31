@@ -13,6 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=amirhosseinbanaei&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amirhosseinbanaei&theme=synthwave&hide_border=false)<br/>
+ 
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="IceDev528's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amirhosseinbanaei&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
 
 
  
