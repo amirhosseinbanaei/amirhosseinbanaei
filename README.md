@@ -9,7 +9,7 @@
 # 📊GitHub Stats :
  
    <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=amirhosseinbanaei&column=3&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=amirhosseinbanaei&column=3&theme=synthwave"/>
 </p>
  
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinbanaei&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
