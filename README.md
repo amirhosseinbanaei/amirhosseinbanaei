@@ -16,7 +16,7 @@
  
  <div align="center">
  <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=amirhosseinbanaei&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=amirhosseinbanaei&column=9&theme=onedark"/>
 </p>
  </div>
  
