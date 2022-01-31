@@ -14,9 +14,11 @@
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amirhosseinbanaei&theme=synthwave&hide_border=false)<br/>
  
+ <div align="center">
  <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=amirhosseinbanaei&column=7&theme=onedark"/>
-</p><br/>
+</p>
+ </div>
  
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="IceDev528's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amirhosseinbanaei&bg_color=2B203B&color=C5C8CE&line=F85D7F&point=FFFFFF&hide_border=true" />
