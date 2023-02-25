@@ -72,4 +72,10 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <h2 align="left">Youtube overview</h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Draw windows logo with python](https://ytcards.demolab.com/?id=qaM6jVI5HNg&title=Draw+windows+logo+with+python&lang=en&timestamp=1663096501&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Draw windows logo with python")](https://www.youtube.com/watch?v=qaM6jVI5HNg)
+[![Javascript code snippets](https://ytcards.demolab.com/?id=oSlgJA80aTc&title=Javascript+code+snippets&lang=en&timestamp=1663010104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Javascript code snippets")](https://www.youtube.com/watch?v=oSlgJA80aTc)
+[![take screen shot with python | pyautogui library](https://ytcards.demolab.com/?id=C8uXYEtulZk&title=take+screen+shot+with+python+%7C+pyautogui+library&lang=en&timestamp=1662923700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "take screen shot with python | pyautogui library")](https://www.youtube.com/watch?v=C8uXYEtulZk)
+[![in range and out of range pseudo class in css](https://ytcards.demolab.com/?id=znzCsKMgWbU&title=in+range+and+out+of+range+pseudo+class+in+css&lang=en&timestamp=1662837303&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "in range and out of range pseudo class in css")](https://www.youtube.com/watch?v=znzCsKMgWbU)
+[![convert image to black and white with python](https://ytcards.demolab.com/?id=uwvmESppWH0&title=convert+image+to+black+and+white+with+python&lang=en&timestamp=1662750902&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "convert image to black and white with python")](https://www.youtube.com/watch?v=uwvmESppWH0)
+[![get Instagram account information with python](https://ytcards.demolab.com/?id=E6wgokYYrUo&title=get+Instagram+account+information+with+python&lang=en&timestamp=1662664500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "get Instagram account information with python")](https://www.youtube.com/watch?v=E6wgokYYrUo)
 <!-- END YOUTUBE-CARDS -->
