@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=Welcome+to+my+Github+page)](https://git.io/typing-svg)
 <h3 align="left">17 year old junior Front-End developer</h3>
 
+<br clear="both">
 
 ###
 
@@ -8,7 +9,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="55" alt="html5 logo"  />
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" width="55" alt="vscode logo"  />
 </div>
 
-###
+<br clear="both">
 
 <h2 align="left">🔗 Social</h2>
 
@@ -37,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
 </div>
 
-###
+<br clear="both">
 
 <h2 align="left">📊 Status</h2>
 
@@ -45,7 +45,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&username=amirhosseinbanaei" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=shades-of-purple&hide_border=true&username=amirhosseinbanaei" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=shades-of-purple&hide_border=true&username=amirhosseinbanaei" height="150" alt="languages graph"  />
 </div>
 
 ###
