@@ -1,16 +1,14 @@
-name: Waka Readme
-
+name: GitHub Readme YouTube Cards
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
   workflow_dispatch:
+
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          WAKATIME_API_KEY: ${{ waka_20bd1042-1275-42bb-b903-14389f4b4ce1 }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          channel_id: UCipSxT7a3rn81vGLw9lqRkg
