@@ -45,7 +45,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&username=amirhosseinbanaei" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=shades-of-purple&hide_border=true&username=amirhosseinbanaei" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=shades-of-purple&hide_border=true&username=amirhosseinbanaei" height="150" alt="languages graph"  />
 </div>
 
 ###
