@@ -48,6 +48,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=shades-of-purple&hide_border=true&username=amirhosseinbanaei" height="150" alt="languages graph"  />
 </div>
 
+<br clear="both">
+
+###
+
+<h2 align="left">🕙 Waka time plugin overview</h2>
+
 ###
 
 <!--START_SECTION:waka-->
