@@ -1,80 +1,51 @@
-<div align="center">
- 
- 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-hossein-banaei-939155212/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18082284) 
-
-<!-- # 💻Tech Stack
-<img src="https://amirhosseinbanaei.ir/assets/images/html.png" width="75px" height="75px">
-<img src="https://amirhosseinbanaei.ir/assets/images/css.png" width="75px" height="75px">
-<img src="https://amirhosseinbanaei.ir/assets/images/js.png" width="75px" height="75px">
-<img src="https://amirhosseinbanaei.ir/assets/images/sass.png" width="70px" height="70px">
-<img src="https://amirhosseinbanaei.ir/assets/images/tailwind.png" width="75px" height="75px">
-<img src="https://amirhosseinbanaei.ir/assets/images/git.png" width="75px" height="75px">
-<img src="https://amirhosseinbanaei.ir/assets/images/npm.png" width="75px" height="75px"> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=Welcome+to+my+Github+page)](https://git.io/typing-svg)
+<h3 align="left">17 year old junior Front-End developer</h3>
 
 
- 
-# 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-# 📊GitHub Stats :
- 
-   <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=amirhosseinbanaei&column=3&theme=dracula"/>
-</p>
- 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinbanaei&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+###
 
-![](https://github-readme-stats.vercel.app/api?username=amirhosseinbanaei&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=amirhosseinbanaei&theme=synthwave&hide_border=false)<br/>
- 
-<!--  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="IceDev528's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amirhosseinbanaei&bg_color=2B203B&color=C5C8CE&line=F85D7F&point=FFFFFF&hide_border=false" />
-  </a> -->
- 
- 
-<!-- ### Hello Guys 👋
+<h2 align="left">🧑‍💻 I work with</h2>
 
-### Welcome to my Github page 😊 -->
+###
 
+<br clear="both">
 
-<!-- ## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
- -->
-<!-- ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br /> -->
-<!--  <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinbanaei&langs_count=8&layout=compact&theme=synthwave&include_all_commits=true&line_height=30"></p>
- 
-[![github stats](https://github-readme-stats.vercel.app/api?username=amirhosseinbanaei&show_icons=true&theme=synthwave)](https://github.com/amirhosseinbanaei) -->
- 
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="55" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="55" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" width="55" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="55" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="35" width="55" alt="babel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="35" width="55" alt="webpack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="55" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35" width="55" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" width="55" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="55" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" width="55" alt="vscode logo"  />
 </div>
 
-<!-- ### Languages and Tools :
+###
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> -->
-<!-- <img align="left" alt="Bootstrap" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
+<h2 align="left">🔗 Social</h2>
 
-<br/>
+###
 
-### Social :
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="35" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
+</div>
 
-<a href="https://www.linkedin.com/in/amir-hossein-banaei-939155212?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4RIxLPz8Qr%2B0SsamKv9grg%3D%3D"><img align="left" alt="Gmail" width="26px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG16.png"></a>
- -->
+###
+
+<h2 align="left">📊 Status</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&username=amirhosseinbanaei" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=shades-of-purple&hide_border=true&username=amirhosseinbanaei" height="150" alt="languages graph"  />
+</div>
+
+###
