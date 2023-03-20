@@ -29,7 +29,7 @@
 
 <br clear="both">
 
-<h2 align="left">🔗 Social</h2>
+<!-- <h2 align="left">🔗 Social</h2>
 
 ###
 
@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="35" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
-</div>
+</div> -->
 
 <br clear="both">
 
