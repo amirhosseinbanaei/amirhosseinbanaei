@@ -64,9 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   9 hrs 32 mins   █████████████████████████   99.97 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   9 hrs 6 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
