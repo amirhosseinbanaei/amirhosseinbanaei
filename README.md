@@ -2,7 +2,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=amirhosseinbanaei&data=followers,repositories,stars,commits&theme=darkmode&width=350)](https://github.com/Jurredr/github-widgetbox)
 
-<h3 align="left">17 year old junior Front-End developer</h3>
+<h3 align="left">18 year old Front-End and Back-End developer</h3>
 
 <br clear="both">
 
