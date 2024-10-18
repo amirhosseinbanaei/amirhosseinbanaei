@@ -67,8 +67,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   18 hrs 58 mins  ████████████████████████▒   97.66 %
-Prisma       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+TypeScript   17 hrs 16 mins  ████████████████████████▓   98.26 %
+Prisma       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
