@@ -67,11 +67,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSHTML                             9 hrs 44 mins   ████████████████▒░░░░░░░░   65.80 %
-C#                                 4 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   27.71 %
-JavaScript                         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-JSON                               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-TypeScript                         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+CSHTML                             9 hrs 42 mins   ███████████████▒░░░░░░░░░   61.74 %
+C#                                 4 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   31.64 %
+JavaScript                         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+TypeScript                         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Microsoft Visual Studio Solution   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
