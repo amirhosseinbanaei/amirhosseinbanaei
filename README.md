@@ -67,10 +67,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go      8 mins                █████████░░░░░░░░░░░░░░░░   36.46 %
-C#      6 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
-JSON    5 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
-Other   3 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
