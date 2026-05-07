@@ -2,11 +2,11 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=amirhosseinbanaei&data=followers,repositories,stars,commits&theme=darkmode&width=350)](https://github.com/Jurredr/github-widgetbox)
 
-<h3 align="left">18 year old Front-End and Back-End developer</h3>
+<h3 align="left">19 year old Developer</h3>
 
 <br clear="both">
 
-###
+<!-- ###
 
 <h2 align="left">🧑‍💻 I work with</h2>
 
@@ -23,8 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" width="55" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="35" width="55" alt="nestjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" width="55" alt="mongodb logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="35" width="55" alt="nginx logo"  /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" width="55" alt="redis logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="35" width="55" alt="vitest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="35" width="55" alt="vitest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" width="55" alt="redux logo"  />
@@ -32,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" width="55" alt="vscode logo"  />
 </div>
 
-<br clear="both">
+<br clear="both"> -->
 
 <!-- <h2 align="left">🔗 Social</h2>
 
@@ -45,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
 </div> -->
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <h2 align="left">📊 Status</h2>
 
