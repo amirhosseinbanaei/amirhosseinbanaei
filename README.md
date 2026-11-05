@@ -65,11 +65,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     5 hrs 38 mins         ████████░░░░░░░░░░░░░░░░░   32.23 %
-TypeScript   3 hrs 33 mins         █████░░░░░░░░░░░░░░░░░░░░   20.29 %
-JavaScript   2 hrs 23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-JSON         1 hr 53 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Text         1 hr 3 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+From: 28 October 2026 - To: 04 November 2026
+
+Total Time: 10 hrs 24 mins
+
+TypeScript    2 hrs 57 mins         ██████░░░░░░░░░░░░░░░░░░░   23.53 %
+Other         2 hrs 9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+Markdown      2 hrs 9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+JSON          1 hr 23 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Text          1 hr 6 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+Bash          29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Python        28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+HTML          26 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+JavaScript    18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+CSHTML        17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
