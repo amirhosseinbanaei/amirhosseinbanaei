@@ -65,20 +65,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2026 - To: 16 November 2026
+From: 10 November 2026 - To: 17 November 2026
 
-Total Time: 17 hrs 35 mins
+Total Time: 17 hrs 25 mins
 
-Markdown      5 hrs 51 mins         ███████▒░░░░░░░░░░░░░░░░░   29.12 %
-TypeScript    3 hrs 55 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 %
-JavaScript    3 hrs 35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-Other         2 hrs 32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-Text          1 hr 22 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-JSON          42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Markdown      6 hrs 2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.42 %
+JavaScript    3 hrs 13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+TypeScript    2 hrs 59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Other         2 hrs 25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+Text          1 hr 24 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+JSON          1 hr 11 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Go            30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 C#            29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 HTML          21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-YAML          19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-CSHTML        18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+YAML          19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
